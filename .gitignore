@@ -1,32 +1,10 @@
 
 .DS_Store
 
-.ipynb_checkpoints/AA Tau_data-checkpoint.ipynb
+.ipynb_checkpoints/*.*
 
-.ipynb_checkpoints/AATau_analysis-checkpoint.ipynb
+*.txt
 
-.ipynb_checkpoints/AATau_data-checkpoint.ipynb
+*.png
 
-.ipynb_checkpoints/AATau_model_selection-checkpoint.ipynb
-
-.ipynb_checkpoints/Untitled-Copy1-checkpoint.ipynb
-
-.ipynb_checkpoints/Untitled-Copy2-checkpoint.ipynb
-
-.ipynb_checkpoints/why in the hell does this work-checkpoint.ipynb
-
-AATau_IR2008.txt
-
-AATau_IR2014dec02.txt
-
-AATau_IR2014dec12.txt
-
-AATau_opt2014dec02.txt
-
-
-AATau_opt2008.txt
-
-AATau_opt2014dec12.txt
-.ipynb_checkpoints/Paper_figures-checkpoint.ipynb
-
-.ipynb_checkpoints/Untitled-checkpoint.ipynb
+*.fits
