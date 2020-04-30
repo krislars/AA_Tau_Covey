@@ -3,8 +3,12 @@
 
 .ipynb_checkpoints/*.*
 
-*.txt
+older_stuff/*.*
+
+sample_spectra/*.*
 
 *.png
 
 *.fits
+
+*.pdf

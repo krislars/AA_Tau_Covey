@@ -1,1 +1,0 @@
-Note that the curves have already been multiplied by wavelength, as stated in the explanatory supplement and referencing Bessell.

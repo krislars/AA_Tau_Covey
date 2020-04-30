@@ -7,9 +7,11 @@
 # - __serialized_columns__:
 #     flux:
 #       __class__: astropy.units.quantity.Quantity
+#       unit: !astropy.units.Unit {unit: erg / (Angstrom cm2 s)}
 #       value: !astropy.table.SerializedColumn {name: flux}
 #     wavelength:
 #       __class__: astropy.units.quantity.Quantity
+#       unit: !astropy.units.Unit {unit: micron}
 #       value: !astropy.table.SerializedColumn {name: wavelength}
 # schema: astropy-2.0
 wavelength flux
