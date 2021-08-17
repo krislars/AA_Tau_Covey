@@ -12,3 +12,5 @@ sample_spectra/*.*
 *.fits
 
 *.pdf
+
+*.eps
